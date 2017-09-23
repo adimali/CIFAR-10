@@ -1,6 +1,4 @@
-# Two Sigma Financial modeling project
-
-This is the repo for CIFAR-10 image classification project.
+# This is the repo for CIFAR-10 image classification project.
 
 
 ## Creators
